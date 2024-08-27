@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Violentttttt
-- 👀 I’m interested in QA Testing
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on Yandex
+- 👀 I’m interested in Django and React
+- 🌱 I’m currently learning everything
 - 📫 How to reach me : TG: @Violent_t
 
 <!---

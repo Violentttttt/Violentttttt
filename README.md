@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Violentttttt
-- 👀 I’m interested in Django and React
+- 👀 I’m interested in Web development
 - 🌱 I’m currently learning everything
 - 📫 How to reach me : TG: @Violent_t
 
